@@ -1,0 +1,1 @@
+this project is to use webcam for ai detection. it could be object detection or anything. as a start for AI project.
